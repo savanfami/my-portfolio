@@ -40,7 +40,7 @@ function Projects() {
               description="This project is a clone of the Netflix website, built with JavaScript, React, React-Vite, Tailwind CSS, Firebase, and API integration. It replicates the Netflix user experience, offering a responsive and dynamic platform for streaming content."
               ghLink="https://github.com/savanfami/netflix-Clone-react"
 
-              // demoLink="https://blogs.soumya-jit.tech/"
+             
             />
           </Col>
 
@@ -51,7 +51,7 @@ function Projects() {
               title="Olx Clone"
               description="Implemented with React, Firebase, Tailwind CSS, and React-Vite, this OLX website clone offers a seamless user experience. Built with JavaScript, it replicates OLX's functionality, enabling users to buy and sell products effortlessly."
               ghLink="https://github.com/savanfami/Olx-clone-React"
-              demoLink="https://editor.soumya-jit.tech/"              
+                            
             />
           </Col>
 
@@ -62,7 +62,7 @@ function Projects() {
               title="React Crud App"
               description="This CRUD application utilizes MongoDB, React, Vite, Tailwind CSS, Node.js, and Express. It features Cloudinary integration for profile image uploading. Users can create, read, update, and delete data seamlessly across the platform."
               ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              
             />
           </Col>
 
